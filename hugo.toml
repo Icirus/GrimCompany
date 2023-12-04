@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Grim Company'
-theme = 'anake'
+#Uncomment as needed
+baseurl = "https://grimcompany.com"
+languageCode = "en-us"
+Title = "Grim Company"
+# Copyright notice. This is displayed in the footer.
+copyright = "&copy; Copyright notice"
+theme = "potato-dark"
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
