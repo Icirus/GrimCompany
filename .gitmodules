@@ -4,3 +4,10 @@
 [submodule "themes/potato-dark"]
 	path = themes/potato-dark
 	url = https://github.com/surajmandalcell/potato-dark
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/calligraphy"]
+	path = themes/calligraphy
+	url = https://github.com/pacollins/calligraphy.git
