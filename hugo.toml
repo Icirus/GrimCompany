@@ -11,8 +11,9 @@ enableRobotsTXT = true
 
 
 [params]
+  font = "insigne"
   text_color = ""
-  author = "Icirus Highbeard"
+  author = ""
   favicon = ""
   site_logo = ""
   description = ""
