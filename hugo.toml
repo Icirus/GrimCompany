@@ -11,7 +11,8 @@ enableRobotsTXT = true
 
 
 [params]
-  font = "insigne"
+  body_classes = "calisto bg-near-white"
+  post_content_classes = "calisto bg-near-white"
   text_color = ""
   author = ""
   favicon = ""
