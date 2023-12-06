@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grim Company</title>
+    <link>https://grimcompany.com/</link>
+    <description>Recent content on Grim Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2023 17:42:20 -0600</lastBuildDate>
+    <atom:link href="https://grimcompany.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calling All Brave Souls of Dun Morogh!</title>
+      <link>https://grimcompany.com/guild-logs/signedcharter/</link>
+      <pubDate>Fri, 01 Dec 2023 17:42:20 -0600</pubDate>
+      <guid>https://grimcompany.com/guild-logs/signedcharter/</guid>
+      <description>&amp;ldquo;Attention, stout-hearted kinfolk of Dun Morogh!
+As I, Icirus Highbeard, stride through our beloved lands, a clarion call echoes across the snow-capped peaks! The time has come to assemble a fellowship of honorable souls under the banner of Grim Company. With shields raised high and hearts brimming with valor, we seek to unite in the name of camaraderie and purpose.
+Gather &amp;lsquo;round, ye stalwart dwarves and esteemed allies! Together, let us forge a guild that embodies resilience, camaraderie, and unyielding valor.</description>
+    </item>
+  </channel>
+</rss>

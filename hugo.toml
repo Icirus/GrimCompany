@@ -1,12 +1,23 @@
-#Uncomment as needed
-baseurl = "https://grimcompany.com"
+title = "Grim Company"
+baseURL = "https://grimcompany.com"
 languageCode = "en-us"
-Title = "Grim Company"
-# Copyright notice. This is displayed in the footer.
-copyright = "&copy; Copyright notice"
-theme = "potato-dark"
+theme = "ananke"
 
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+
+[params]
+  text_color = ""
+  author = "Icirus Highbeard"
+  favicon = ""
+  site_logo = ""
+  description = ""
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  mainSections = ["Guild Logs"]
 
