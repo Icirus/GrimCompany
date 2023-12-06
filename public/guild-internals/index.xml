@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guild Internals on Grim Company</title>
+    <link>https://grimcompany.com/guild-internals/</link>
+    <description>Recent content in Guild Internals on Grim Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2023 11:00:26 -0600</lastBuildDate>
+    <atom:link href="https://grimcompany.com/guild-internals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hierarchy</title>
+      <link>https://grimcompany.com/guild-internals/hierarchy/</link>
+      <pubDate>Wed, 06 Dec 2023 11:00:26 -0600</pubDate>
+      <guid>https://grimcompany.com/guild-internals/hierarchy/</guid>
+      <description>Grim Company thrives on a structured hierarchy that defines our roles and responsibilities. Starting from the eager newcomers to the esteemed leaders, each rank holds a purpose, ensuring order and efficiency within our community.&#xA;Our hierarchy begins with Initiates, those seeking to join our ranks. They strive to prove their dedication and fit within our guild&amp;rsquo;s values. As they progress, they ascend through the ranks, each level bringing new responsibilities and opportunities for growth.</description>
+    </item>
+  </channel>
+</rss>
