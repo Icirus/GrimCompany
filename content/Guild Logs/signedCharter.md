@@ -5,7 +5,7 @@ draft: false
 ---
 "Attention, stout-hearted kinfolk of Dun Morogh!
 
-As I, Icirus Highbeard, stride through our beloved lands, a clarion call echoes across the snow-capped peaks! The time has come to assemble a fellowship of honorable souls under the banner of Grim Company. With shields raised high and hearts brimming with valor, we seek to unite in the name of fellowship and purpose.
+As I, Icirus Stonebeard, stride through our beloved lands, a clarion call echoes across the snow-capped peaks! The time has come to assemble a fellowship of honorable souls under the banner of Grim Company. With shields raised high and hearts brimming with valor, we seek to unite in the name of fellowship and purpose.
 
 Gather 'round, ye stalwart dwarves and esteemed allies! Together, let us forge a guild that embodies resilience, honor, and unyielding valor. To solidify this union, I am canvassing for signatures to inscribe our legacy into the annals of Azeroth.
 
