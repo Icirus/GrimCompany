@@ -1,2 +1,3 @@
-Build Command for Prod: 
-HUGO_ENV=production hugo
+Currently Configured to publish to www.grimcompany.com
+
+Built using Hugo: A go website templating project. 
