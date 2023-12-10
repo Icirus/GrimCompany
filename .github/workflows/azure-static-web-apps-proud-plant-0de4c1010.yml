@@ -1,7 +1,4 @@
 name: Azure Static Web Apps CI/CD
-env: 
-  HUGO_ENV=production
-  
 on:
   push:
     branches:
@@ -24,6 +21,8 @@ jobs:
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
+        env:
+          HUGO_ENV: production
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PROUD_PLANT_0DE4C1010 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
@@ -44,5 +43,6 @@ jobs:
         id: closepullrequest
         uses: Azure/static-web-apps-deploy@v1
         with:
+          app_location: "/"
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PROUD_PLANT_0DE4C1010 }}
           action: "close"
