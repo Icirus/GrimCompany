@@ -1,5 +1,5 @@
 ---
-title: "Joint Efforts"
+title: "Joint Operations"
 date: 2023-12-10
 tags: []
 description: "Coordination - Planning - Execution"
