@@ -9,7 +9,6 @@ googleAnalytics = "G-MLYZ7SLFLX"
 enableRobotsTXT = true
 
 
-
 [params]
   body_classes = "calisto bg-near-white"
   post_content_classes = "calisto bg-near-white"
@@ -22,6 +21,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
   mainSections = ["logs", "jointOperations"]
+  commentoEnable = true
 
 # [services.disqus]
 #   shortname = 'grimcompany'
