@@ -32,7 +32,7 @@ __Acknowledgments:__
 
 I commend every member of _Grim Company_ for their unwavering dedication, bravery, and exceptional performance throughout this operation. Our success would not have been possible without your commitment to our cause.
 
-Special Commendation must be made for ___Lord Justiciar Thylas___ -- his unyielding bravery in face of multiple challenging opponents shall not be forgotten. I do not know what you were saying to garner so much focus, but the strike force appreciated your presence and penchant to absorb pain.
+Special Commendation must be made for ___Lord Justiciar Thylas Steelshroud___ -- his unyielding bravery in face of multiple challenging opponents shall not be forgotten. I do not know what you were saying to garner so much focus, but the strike force appreciated your presence and penchant to absorb pain.
 
 __Conclusion:__
 
@@ -42,5 +42,5 @@ Rest assured, _Grim Company_ stands ready to face any new challenges that threat
 
 In solidarity and honor,
 
-Icirus Stonebeard
+Icirus Stonebeard  
 ___High Warden of Grim Company___
