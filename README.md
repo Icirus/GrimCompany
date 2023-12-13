@@ -7,4 +7,3 @@ Write about the New Assignment near Southshore
 Uldaman Conspiracy
 
 Stonewatch Keep story with Geros
-S
