@@ -4,7 +4,7 @@ date: 2023-12-12T09:11:16-06:00
 tags: []
 featured_image: "images/VC.png"
 description: "Defias' Demise: Grim Company Prevails in Deadmines' Showdown!"
-draft: true
+draft: false
 ---
 Dear Grim Company Members,
 
@@ -40,7 +40,7 @@ The removal of the Defias Brotherhood's leadership within the Deadmines marks a 
 
 Rest assured, _Grim Company_ stands ready to face any new challenges that threaten our homeland. Together, we shall continue our noble pursuit of justice and peace.
 
-In solidarity,
+In solidarity and honor,
 
 Icirus Stonebeard
 ___High Warden of Grim Company___
