@@ -4,7 +4,7 @@ date: 2023-12-12T09:11:16-06:00
 tags: []
 featured_image: "images/VC.png"
 description: "Defias' Demise: Grim Company Prevails in Deadmines' Showdown!"
-draft: false
+draft: true
 ---
 Dear Grim Company Members,
 
