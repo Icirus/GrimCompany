@@ -4,7 +4,7 @@ date: 2023-12-15T00:25:52-06:00
 tags: []
 featured_image: "images/bfd/akumai_alive_2.png"
 description: "Ten Heroes Confrontation Against the Dark Forces of Blackfathom Deeps"
-draft: true
+draft: false
 ---
 
 As High Warden Icirus Stonebeard, it is my honor to regale you with the daring account of the ten valiant heroes who stormed the notorious Blackfathom Deeps.
