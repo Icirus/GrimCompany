@@ -11,12 +11,12 @@ As High Warden Icirus Stonebeard, it is my honor to regale you with the daring a
 
 
 
-___Baron Aquanis:___ This formidable foe embodied the essence of the ocean depths. His armor glistened like the scales of a great sea serpent, and his trident crackled with energy, drawing power from the watery depths. Baron Aquanis commanded the waters with mastery, conjuring fierce tidal waves and torrents to thwart his 
+___Baron Aquanis:___ This formidable foe embodied the essence of the ocean depths. His bracers glistened like the scales of a great sea serpent, drawing power from the watery depths. Baron Aquanis commanded the waters with mastery, conjuring fierce tidal waves and torrents to thwart his 
 adversaries, but he was no match for the might of our adventuring party. 
 
 ![](/images/bfd/BaronAquanisDead.png "Baron Aquanis")
 
-___Gelihast:___ This cunning sorcerer wielded arcane energies with finesse. Clad in flowing robes adorned with arcane symbols, Gelihast's eyes shimmered with arcane power. His spells were as swift as they were deadly, weaving through the air with a brilliance that belied their destructive potential. Gelihast called upon their allies at to over run us as if we were frogs crossing a road busy with carriage traffic. We were able to avoid the shadow magic, and earn our just rewards.  
+___Gelihast:___ This cunning sorcerer wielded arcane energies with finesse. Gelihast's eyes shimmered with arcane power. His spells were as swift as they were deadly, weaving through the air with a brilliance that belied their destructive potential. Gelihast called upon their allies at to over run us as if we were frogs crossing a road busy with carriage traffic. We were able to avoid the shadow magic, and earn our just rewards.  
 
 ![Text](/images/bfd/GelihastDead.png "Gelihast")
 
@@ -24,7 +24,7 @@ ___Twilight Lord Kelris:___ Clad in robes as dark as the night sky, his presence
 
 ![Text](/images/bfd/TwilightLordKelrisDead.png "Gelihast")
 
-Blessings be upon ___Lord Justiciar Thylas Steelshroud___ for his stalwart resolutness. He removed Lord Kelris' head as proof of the victory.  
+Blessings be upon ___Lord Justiciar Thylas Steelshroud___ for his stalwart resoluteness. He removed Lord Kelris' head as proof of the victory.  
 
 ![Text](/images/bfd/thylasLoot.png "Lord Thylas")
 
