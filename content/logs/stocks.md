@@ -4,7 +4,7 @@ date: 2023-12-12T09:16:43-06:00
 tags: []
 featured_image: "images/stocks.png"
 description: "Pulling the Thread of Treason"
-draft: true
+draft: false
 ---
 ## Unveiling the Conspiracy in Stockades ##
 
@@ -40,5 +40,5 @@ Stay vigilant, stay united, and together, we shall ensure that justice prevails 
 
 In solidarity,
 
-Icirus Stonebeard
-High Warden of Grim Company
+__Icirus Stonebeard__  
+___High Warden of Grim Company___

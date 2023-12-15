@@ -42,5 +42,5 @@ Rest assured, _Grim Company_ stands ready to face any new challenges that threat
 
 In solidarity and honor,
 
-Icirus Stonebeard  
+__Icirus Stonebeard__  
 ___High Warden of Grim Company___

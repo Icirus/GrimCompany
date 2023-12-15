@@ -2,7 +2,7 @@
 title: "Attack on Blackfathom Deeps"
 date: 2023-12-10T13:32:41-06:00
 tags: []
-featured_image: "images/bfd.jpg"
+featured_image: "images/bfd/bfd.jpg"
 description: "Threats from Blackfathom Must Be Addressed - Raiding Parties Forming"
 draft: false
 ---
