@@ -10,11 +10,11 @@ enableRobotsTXT = true
 
 
 [params]
-  body_classes = "calisto bg-near-white"
-  post_content_classes = "calisto bg-near-white"
+  body_classes = "calisto bg-light-gray"
+  post_content_classes = "calisto bg-light-gray"
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "images/grimEmblem.png"
   site_logo = ""
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -22,6 +22,11 @@ enableRobotsTXT = true
   recent_posts_number = 3
   mainSections = ["logs", "jointOps"]
   commentoEnable = true
+
+[[params.ananke_socials]]
+  name = "discord"
+  url = "https://discord.gg/N5Y37w6mRR"
+  label = "Grim Company Discord"
 
 # [services.disqus]
 #   shortname = 'grimcompany'
