@@ -11,23 +11,30 @@ As High Warden Icirus Stonebeard, it is my honor to regale you with the daring a
 
 
 
-___Baron Aquanis:___ This formidable foe embodied the essence of the ocean depths. His armor glistened like the scales of a great sea serpent, and his trident crackled with energy, drawing power from the watery depths. Baron Aquanis commanded the waters with mastery, conjuring fierce tidal waves and torrents to thwart his adversaries, but he was no match for the might of our adventuring party.
-{{< figure src="/images/bfd/BaronAquanisDead.png">}}
+___Baron Aquanis:___ This formidable foe embodied the essence of the ocean depths. His armor glistened like the scales of a great sea serpent, and his trident crackled with energy, drawing power from the watery depths. Baron Aquanis commanded the waters with mastery, conjuring fierce tidal waves and torrents to thwart his 
+adversaries, but he was no match for the might of our adventuring party. 
 
-___Gelihast:___ This cunning sorcerer wielded arcane energies with finesse. Clad in flowing robes adorned with arcane symbols, Gelihast's eyes shimmered with arcane power. His spells were as swift as they were deadly, weaving through the air with a brilliance that belied their destructive potential. Gelihast called upon their allies at to over run us as if we were frogs crossing a road busy with carriage traffic. We were able to avoid the shadow magic, and earn our just rewards.
-{{< figure src="/images/bfd/GelihastDead.png">}}
+![](/images/bfd/BaronAquanisDead.png "Baron Aquanis")
 
-___Twilight Lord Kelris:___ Clad in robes as dark as the night sky, his presence exuded an eerie aura. His eyes glowed with an otherworldly violet hue, reflecting the corrupted power he wielded. Kelris manipulated shadows with unsettling ease, sending tendrils of darkness to ensnare any who dared challenge him. His chains of shadow magic were enough to over power even the most seasoned adventurures, but still we were able to Prevail. 
-{{< figure src="/images/bfd/TwilightLordKelrisDead.png">}}
+___Gelihast:___ This cunning sorcerer wielded arcane energies with finesse. Clad in flowing robes adorned with arcane symbols, Gelihast's eyes shimmered with arcane power. His spells were as swift as they were deadly, weaving through the air with a brilliance that belied their destructive potential. Gelihast called upon their allies at to over run us as if we were frogs crossing a road busy with carriage traffic. We were able to avoid the shadow magic, and earn our just rewards.  
 
-Blessings be upon ___Lord Justiciar Thylas Steelshroud___ for his stalwart resolutness. He removed Lord Kelris' head as proof of the victory. 
-{{< figure src="/images/bfd/thylasLoot.png">}}
+![Text](/images/bfd/GelihastDead.png "Gelihast")
 
-___Aku'mai:___ The monstrous embodiment of the deep, Aku'mai's size was truly awe-inspiring. 
-{{< figure src="/images/bfd/akumai_alive_1.png">}}
+___Twilight Lord Kelris:___ Clad in robes as dark as the night sky, his presence exuded an eerie aura. His eyes glowed with an otherworldly violet hue, reflecting the corrupted power he wielded. Kelris manipulated shadows with unsettling ease, sending tendrils of darkness to ensnare any who dared challenge him. His chains of shadow magic were enough to over power even the most seasoned adventurures, but still we were able to Prevail.  
 
-With potent spit and eyes glowing a sinister green, this ancient horror struck fear into the hearts of even the bravest heroes. Its immense strength and primal fury made it a force to be reckoned with in the heart of Blackfathom Deeps, but still -- We prevailed!
-{{< figure src="/images/bfd/akumai_kill_1.png">}}
+![Text](/images/bfd/TwilightLordKelrisDead.png "Gelihast")
+
+Blessings be upon ___Lord Justiciar Thylas Steelshroud___ for his stalwart resolutness. He removed Lord Kelris' head as proof of the victory.  
+
+![Text](/images/bfd/thylasLoot.png "Lord Thylas")
+
+___Aku'mai:___ The monstrous embodiment of the deep, Aku'mai's size was truly awe-inspiring.  
+
+![Text](/images/bfd/akumai_alive_1.png "Aku'mai")
+
+With potent spit and eyes glowing a sinister green, this ancient horror struck fear into the hearts of even the bravest heroes. Its immense strength and primal fury made it a force to be reckoned with in the heart of Blackfathom Deeps, but still -- We prevailed!  
+
+![Text](/images/bfd/akumai_kill_1.png "Aku'mai")
 
 The guild ___Doctors of Death___ distinguished themselves amidst this perilous expedition. Led by their charismatic and resourceful guildmaster, Dr. Smokedyou, the healers and support casters of the guild ensured the heroes remained resilient in the face of adversity. Their timely interventions and strategic healing prowess turned the tides of battle, keeping the RAID standing strong against the relentless onslaught of Blackfathom Deeps' guardians.
 
@@ -38,4 +45,6 @@ Blessings be upon all the lands.
 With Ale and Honor,
 
 __Icirus Stonebeard__  
-___High Warden of Grim Company___
+___High Warden of Grim Company___  
+
+![Text](/images/grimEmblem.png)
