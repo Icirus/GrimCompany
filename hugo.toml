@@ -27,6 +27,3 @@ commentoEnable = true
 name = "discord"
 url = "https://discord.gg/N5Y37w6mRR"
 label = "Grim Company Discord"
-
-# [services.disqus]
-#   shortname = 'grimcompany'
