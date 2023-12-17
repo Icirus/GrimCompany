@@ -12,8 +12,11 @@ RAIDing parties and other coordinated efforts required communication and plannin
 _((Joint Operations are currently schedule for Sundays and Thursdays at 8:00pm server time(GMT-7), but these days are subject to change. As the Guild grows, we will continue to evaluate which days work best for the group. We will continue to base our scheduled times based on the Server's time zone.))_
 
 <!-- ## RAID Roster ##  
-  
+
+{{< table "table table-striped table-bordered" >}} 
 | Name               | Role      | Class   |
 |:------------------ |:--------- |:------- |
 | Thylas Steelshourd | Tank      | Paladin |
-| Icirus Stonebeard  | Melee DPS | Paladin | -->
+| Icirus Stonebeard  | Melee DPS | Paladin |
+
+{{< /table >}} -->
