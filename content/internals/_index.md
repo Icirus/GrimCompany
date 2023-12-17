@@ -20,6 +20,9 @@ __Description:__ The highest authority in Grim Company, the High Warden is respo
 ### Lord Justiciar ###
 __Description:__ A senior officer responsible for maintaining order within the guild, settling disputes, and ensuring members adhere to the guild's code of conduct.
 
+### Grand Emissary ###
+__Description:__ A senior officer responsible for conducting Relations and Diplomacy with friends and enemies of Grim Company. A shining beacon of the values of our company, The Grand Emissary is the voice of reason and cooperation for all matters external to Grim Company. 
+
 ### Guardian ###
 __Description:__ Seasoned members tasked with protecting the guild's interests, assisting newer members, and organizing smaller-scale activities.
 
@@ -29,14 +32,11 @@ __Description:__ Trusted officers who assist Guardians, oversee smaller groups, 
 ### Sentinel ###
 __Description:__ Elite warriors recognized for exceptional skill and dedication. They lead squads into battles, organize events, and mentor lower-ranking members.
 
-### Veteran Protector ###
+### Protector ###
 __Description:__ Experienced members who have proven their commitment and are seen as pillars of the guild. They aid in training and guiding newer recruits.
 
 ### Defender ###
 __Description:__ Active members participating in guild activities, events, and missions. They are the lifeblood of the guild and contribute to the guild's objectives.
-
-### Artisan ###
-__Description:__ Members specializing in professions such as crafting, gathering, or other non-combat roles. They support the guild by providing resources and services.
 
 ### Initiate ###
 __Description:__ New recruits who are undergoing a trial period to prove their dedication and compatibility with the guild's values.
