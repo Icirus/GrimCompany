@@ -15,13 +15,21 @@ Grim Company is still finding its place within the world of Azeroth. The guild c
 __What is Medium Roleplay?__  
 When we say medium Roleplay it means we have a few guidelines as we are getting started, and we will be developing more as required.
 
-1. ___Guild chat is largely considered in character.___ Guild chat is an efficient way to communicate information and have banter between characters. We haven't really discussed the constraints of Guild chat and how it works. My headcanon is currently that the Hearthstone we carry allows for this communication, but I have also thought that the Guild channel is a tavern. It's open to interpretation, and if someone wants to discuss it further, we are happy to have the conversation. 
+__What are the guidelines?__ 
+___Chat Guildlines___
+1. ___Guild Chat -- In character:___  Guild chat is in character always. In the off chance you need to communicate Out of Character(OOC) infromation to the whole guild, it should be in ((parenthesis)). This is something that will be enforced. We want to provide an environment for all Roleplayers. This includes people that want to play "High immersion" characters. We have an official OOC channel for anyone with the Grim Company tag and friends of the guild.  
+_In order to be able to talk in Guild chat, all new recruits must meet with a member of Grim Company for an RP interaction. After completing the interaction, the recruit will be promoted to their appropriate rank and chat rights will be granted._
 
-2. ___Say is considered in character.___ This should largely be true for communication between guildies, but it can vary when discussing with members of the alliance outside of the guild. Even still, we want the perception of Grim Company to be that of an upstanding roleplaying guild, so interacting with the broader community in the character in /say is the goal. 
+2. ___Say -- In character:___ This should largely be true for communication between guildies, but it can vary when discussing with members of the alliance outside of the guild. Even still, we want the perception of Grim Company to be that of an upstanding roleplaying guild, so interacting with the broader community in the character in /say is the goal. 
 
-3. ___Party chat is fluid.___ The reasons to communicate via party chat are so varying, it's hard to say one way or another. 
+3. ___Party -- Out of Character:___ The reasons to communicate via party chat are so varying, it's hard to say one way or another. I would lean towards this being out of character, but it could clearly be used for in character communication if desired.
 
-4. ___Be open to being helpful.___ Your character can 100% be a tool, but that doesn't mean your OOC actions can as well. We don't put up with using "Character motivations" dictate bad behavior. For example, saying "I'm Roleplaying a Rogue that ninja loots" isn't acceptable. We all know this is a ruse. Grow up. 
+4. ___GrimCompanyOOC -- Out of Character:___ We have created a global channel for communicating out of character with each other. Not all members will join GrimCompanyOOC especially if they are playing high immersion characters. There are extensive chat options for customizing chat channels. 
+{{< youtube id="kvwXvXyUpeA?si=j855IwAikF00krwl&t=84" >}}
+
+___Golden Rule___
+
+___Be open to being helpful.___ Your character can 100% be a tool, but that doesn't mean your OOC actions can as well. We don't put up with using "Character motivations" dictate bad behavior. For example, saying "I'm Roleplaying a Rogue that ninja loots" isn't acceptable. We all know this is a ruse. Grow up. 
 
 
 __What sort of activities does Grim Company like to do?__
