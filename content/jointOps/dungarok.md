@@ -46,7 +46,7 @@ The brave adventures committed to this cause shall sign below, and their informa
 {{< table "table table-striped table-bordered" >}} 
 | Name               | Rank     | Battle Profession   |
 |:------------------ |:--------- |:------- |
-| Thylas Steelshourd | Sergeant     | Paladin |
+| Thylas Steelshroud | Sergeant     | Paladin |
 | Icirus Stonebeard  | Corporal| Paladin |
 | Gearforge Sparkstrider | Unranked | Warrior |
 | - | - | - |
