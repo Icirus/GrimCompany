@@ -1,5 +1,5 @@
 ---
-title: "Defenders Wanted"
+title: "Operation Havok Squad"
 date: 2024-01-03T20:08:57-06:00
 tags: []
 featured_image: "/images/ironforge/dungarok.png"
@@ -14,10 +14,10 @@ In recognition of the escalating threats to the safety and security of Dun Garok
 
 The contract will enlist the support of up to 15 skilled adventurers, each to be compensated based on their rank within the Alliance forces. The payment structure is as follows:
 
-- **Sergeant:** 45 silver per week (Minimum 3 weeks)
-- **Corporal:** 35 silver per week (Minimum 3 weeks)
-- **Private:** 25 silver per week (Minimum 3 weeks)
-- **Unranked:** 15 silver per week (Minimum 3 weeks)
+- **Sergeant:** 45 silver per week
+- **Corporal:** 35 silver per week
+- **Private:** 25 silver per week
+- **Unranked:** 15 silver per week
 
 The terms of this contract encompass the provision of essential defensive services, including but not limited to:
   
