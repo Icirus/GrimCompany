@@ -1,5 +1,5 @@
 ---
-title: "Operation Havok Squad"
+title: "Defender Wanted"
 date: 2024-01-03T20:08:57-06:00
 tags: []
 featured_image: "/images/ironforge/dungarok.png"
@@ -49,7 +49,7 @@ The brave adventures committed to this cause shall sign below, and their informa
 | Thylas Steelshroud | Sergeant     | Paladin |
 | Icirus Stonebeard  | Corporal| Paladin |
 | Gearforge Sparkstrider | Unranked | Warrior |
-| - | - | - |
+| Bisky | Unranked | Priest |
 | - | - | - |
 | - | - | - |
 | - | - | - |
