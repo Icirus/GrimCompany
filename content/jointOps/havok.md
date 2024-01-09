@@ -1,5 +1,5 @@
 ---
-title: "Defender Wanted"
+title: "Defenders Wanted"
 date: 2024-01-03T20:08:57-06:00
 tags: []
 featured_image: "/images/ironforge/dungarok.png"
