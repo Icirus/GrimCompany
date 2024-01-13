@@ -26,15 +26,6 @@ Members form the sturdy backbone of Grim Company, exhibiting unwavering allegian
 ### Initiate
 Initiates are fresh recruits eager to prove themselves within Grim Company. As they embark on their journey, they must exhibit dedication, learn from seasoned members, and showcase their commitment to the company's principles.
 
-## Intercompany Mercenaries
-
-### Sellsword
-Sellswords are independent warriors temporarily allied with Grim Company for specific missions. They offer their specialized skills and expertise, aiding the company's endeavors while maintaining their autonomy and reputation.
-
-### Contractee
-Contractees are esteemed mercenaries hired on a contractual basis by Grim Company. Their temporary affiliation grants access to company communication upon attuning their Hearthstone to the company's frequency, aligning their goals with the company's pursuits.
-
-## Needs Hearthstone attuned to company communication frequency to Promote to either Contractee or Initiate
-
+## Needs Hearthstone attuned to company communication frequency to Promote to Initiate
 ### Recruit
 Recruits are aspiring members seeking entry into Grim Company. To progress, they must attune their Hearthstone to the company's communication frequency by meeting with a member of Grim Company. Any Member and above can attune recruits after explaining the rules and expectations of the company. 
